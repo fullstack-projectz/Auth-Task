@@ -35,9 +35,9 @@ cd auth-jwt-nodejs
 npm start
 
 # Api EndPoints
-`https://auth-task-iy53.onrender.com/api/auth/register` : for register 
-`https://auth-task-iy53.onrender.com/api/auth/login` : for Login 
-`https://auth-task-iy53.onrender.com/api/auth/profile` : but if you want the profile you have to give the  HEADER - Authorization :  **Bearer** Token in POSTMAN 
+- `https://auth-task-iy53.onrender.com/api/auth/register` : for register 
+- `https://auth-task-iy53.onrender.com/api/auth/login` : for Login 
+- `https://auth-task-iy53.onrender.com/api/auth/profile` : but if you want the profile you have to give the  HEADER - Authorization :  **Bearer** Token in POSTMAN 
 
 
 
