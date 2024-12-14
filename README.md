@@ -30,9 +30,7 @@ This project implements user authentication and authorization in a Node.js appli
 git clone https://github.com/your-username/auth-jwt-nodejs.git
 cd auth-jwt-nodejs
 
-``` bash
-npm install
-
+```
 ## To Start your Sever
 npm start
 
@@ -40,6 +38,9 @@ npm start
 `https://auth-task-iy53.onrender.com/api/auth/register` : for register 
 `https://auth-task-iy53.onrender.com/api/auth/login` : for Login 
 `https://auth-task-iy53.onrender.com/api/auth/profile` : but if you want the profile you have to give the  HEADER - Authorization :  **Bearer** Token in POSTMAN 
+
+
+
 
 
 
